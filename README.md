@@ -3,7 +3,7 @@ This Project documents the process of launching EC2 Instance displaying Apache W
 ### Created VPC
 Amazon Virtual Private Cloud (VPC)creates a secure, isolated virtual network in the AWS environment. 
 It has a CIDR O 10.0.0.0/16.
-Below is the image 
+/Below is the image 
 ![vpc image](/VPC.png)
 ### Created Subnets
 I created both public and private subnets
@@ -16,7 +16,7 @@ Created security group with inbound rule.
 Below is the image
 ![Security Group image](/Security_Group.png)
 ### Instance ID
-Below is the image
+/Below is the image
 ![Instance ID image](/InstanceID.png)
 
  
