@@ -21,7 +21,7 @@ Below is the image
 Below is an image showing Apache is successfully running on the EC2 Instance.
 ![Apache image](/Test_Page_Apache.png)
 ## EC2 Details
-Below is an image of the Ec2 details after creation with Apache running on it
+Below is an image of the EC2 details after creation with Apache running on it
 ![EC2 image](/EC2_Instance_Details.png)
 
  
